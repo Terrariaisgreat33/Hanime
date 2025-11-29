@@ -1,0 +1,18 @@
+{
+  "sourceName": "Hanime",
+  "iconUrl": "https://i.imgur.com/ST9C6Ju.png",
+  "author": {
+    "name": "YourName",
+    "icon": "https://i.imgur.com/ST9C6Ju.png"
+  },
+  "version": "1.0.0",
+  "language": "English (SUB)",
+  "streamType": "HLS",
+  "quality": "720p",
+  "baseUrl": "https://hanime.tv/api/v8/",
+  "searchBaseUrl": "https://search.hanime.tv/",
+  "scriptUrl": "https://YOUR-HOST.com/hanime-script.js",
+  "asyncJS": true,
+  "streamAsyncJS": false,
+  "softsub": true
+}
